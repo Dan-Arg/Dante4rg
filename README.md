@@ -1,4 +1,4 @@
-### Hola! Mi nombre es Daniel Argueta 👋
+# Hola! Mi nombre es Daniel Argueta 👋
 
 Soy estudiante de la Universidad Tecnológica de El Salvador y estudio la carrera de Ingeniería en Sistemas y Computación.
 <!--
