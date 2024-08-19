@@ -2,7 +2,7 @@
 
 Soy estudiante de la Universidad Tecnológica de El Salvador y estudio la carrera de Ingeniería en Sistemas y Computación.
 <!--
-**Dante4rg/Dante4rg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Dan-Arg/Dan-Arg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
